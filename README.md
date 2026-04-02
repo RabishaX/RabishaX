@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Rabisha%20Nadeem&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Automation%20Learner&descSize=16&descAlignY=78&descColor=a89de8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Rabisha%20Nadeem&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Full%20Stack%20PHP%20Developer%20%E2%80%A2%20AI%20Automation%20(n8n)&descSize=16&descAlignY=78&descColor=a89de8" width="100%"/>
 
 <br/>
 
-**`Building clean interfaces. Learning deep systems. Automating what matters.`**
+**`Building scalable web apps. Automating intelligent workflows. Growing every day.`**
 
 <br/>
 
@@ -18,13 +18,13 @@
 
 ## &nbsp;About Me
 
-I'm a full stack developer with a strong eye for UI and a solid foundation in backend systems and AI automation. I build applications that are functional, clean, and scalable — and I'm actively expanding into AI-powered workflows and intelligent automation.
+I'm a Full Stack PHP Developer with hands-on experience in AI-powered workflow automation using n8n. I build dynamic web applications, integrate APIs, and design intelligent systems that eliminate manual effort — and I'm actively expanding into Node.js, Express, and MongoDB to grow into a complete MERN + PHP developer.
 
-- 🎯 &nbsp;Goal: Job-ready **Full Stack + AI Automation Developer** by end of 2026
-- ⚙️ &nbsp;Currently deepening: **Advanced JavaScript**, **Laravel**, **Node.js**, **N8N workflows**
-- 🤖 &nbsp;Exploring: **LLM integrations**, **AI-powered apps**, **API automation pipelines**
-- 🧱 &nbsp;I believe in building real things — not just tutorials — to actually learn
-- 📍 &nbsp;Based in Pakistan · Open to remote opportunities
+- 🎯 &nbsp;Goal: Land a junior developer or internship role while building production-ready AI automation systems
+- ⚙️ &nbsp;Currently learning: **Node.js**, **Express.js**, **MongoDB** — expanding backend stack
+- 🤖 &nbsp;Hands-on with: **n8n workflows**, **RAG-based AI agents**, **webhook automation**
+- 🧱 &nbsp;Background: 6+ years teaching computer science — strong foundation, real-world discipline
+- 📍 &nbsp;Karachi, Pakistan · Open to remote & on-site opportunities
 
 ---
 
@@ -35,59 +35,75 @@ I'm a full stack developer with a strong eye for UI and a solid foundation in ba
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
 **Backend**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **AI & Automation**
 
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-**Tools & Workflow**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 ---
 
-## &nbsp;AI & Automation Projects
+## &nbsp;Projects
 
-### 🤖 &nbsp;AI Chatbot — API-Powered Interaction System
-> Automating user interactions with intelligent response flows
+### 📚 &nbsp;E-Book Management System
+> Full-featured book management platform built in PHP
 
-Built a functional chatbot using JavaScript and external AI APIs. Integrated real-time query handling with automated response logic — an entry point into understanding how LLM APIs work in production interfaces.
+Developed a dynamic e-book platform with complete user authentication, category-based organization, and full CRUD operations. Built with a clean, responsive interface designed for real-world usability.
 
-`JavaScript` `REST APIs` `AI Integration`
+`PHP` `MySQL` `HTML5` `CSS3` `Bootstrap` `JavaScript`
 
 ---
 
-### ⚙️ &nbsp;Task Automation Script — Workflow Efficiency Tool
-> Eliminating repetitive manual processes with code
+### 🤖 &nbsp;AI-Powered Customer Feedback Automation
+> Intelligent feedback triage — zero manual sorting
 
-Developed a Node.js script that automates routine data-fetching and processing tasks. Reduced manual effort significantly by chaining API calls and handling data transformation automatically.
+Built a full automation system using Lovable (frontend) and n8n (backend) that classifies incoming customer feedback into Complaints, Compliments, and Feature Requests using AI — then triggers automatic Gmail replies based on category. Eliminated manual inbox management entirely.
 
-`Node.js` `REST APIs` `Process Automation`
+`n8n` `AI Workflows` `Gmail API` `Webhooks` `Lovable`
+
+---
+
+### 💬 &nbsp;StarGenius AI Chatbot
+> Context-aware AI assistant with real-time conversation handling
+
+Developed an intelligent chatbot using Lovable + n8n, powered by a RAG-based AI agent that pulls from a knowledge base to deliver accurate, context-driven responses. Integrated webhooks, conditional logic, and API chaining for a seamless end-to-end flow.
+
+`n8n` `RAG Agent` `Webhooks` `REST APIs` `Lovable` `OpenAI`
+
+---
+
+## &nbsp;AI & Automation — How I Think
+
+- 🔗 &nbsp;**API integrations**: Gmail, webhooks, third-party REST APIs wired into automated pipelines
+- 🔄 &nbsp;**n8n workflows**: Multi-step flows with branching logic, AI nodes, and conditional triggers
+- 🧠 &nbsp;**RAG-based agents**: Knowledge-driven AI responses — not just prompt engineering, but retrieval-augmented systems
+- ⚡ &nbsp;**Automation mindset**: If a task is repetitive, it should be automated — that's the default
 
 ---
 
 ## &nbsp;What I Bring
 
-- ✦ &nbsp;**Clean, maintainable code** — structure and readability over cleverness
-- ✦ &nbsp;**UI instinct** — I care about how things look *and* how they work
-- ✦ &nbsp;**Systems thinking** — I design the whole flow before writing the first line
-- ✦ &nbsp;**API & automation mindset** — every repetitive process is a problem to solve with code
-- ✦ &nbsp;**Relentless learning** — I don't wait to be taught; I build to understand
+- ✦ &nbsp;**Real PHP + MySQL experience** — built and shipped actual projects, not just exercises
+- ✦ &nbsp;**Automation-first thinking** — I look for workflow problems before writing a single line
+- ✦ &nbsp;**Fast learner** — currently adding Node.js, Express, and MongoDB to backend arsenal
+- ✦ &nbsp;**Teaching background** — clear communicator, patient debugger, strong documentation habits
+- ✦ &nbsp;**Consistent discipline** — 6 years professional work ethic applied to development
 
 ---
 
@@ -95,10 +111,10 @@ Developed a Node.js script that automates routine data-fetching and processing t
 
 ```
 2026 Roadmap
-├── Full Stack Mastery        → Laravel · Node.js · Advanced React patterns
-├── AI Automation Engineering → LangChain · LLM APIs · N8N · AI Agents
-├── Portfolio Products        → SaaS tools · client automation systems
-└── Open Source               → starting small, building consistently
+├── Backend Growth     → Node.js · Express.js · MongoDB (MERN stack)
+├── PHP Deepening      → Laravel · REST API development · Advanced OOP
+├── AI Automation      → Advanced n8n · LangChain · AI Agents · MCP Servers
+└── Career Target      → Junior Full Stack Developer · AI Automation role
 ```
 
 ---
@@ -107,7 +123,7 @@ Developed a Node.js script that automates routine data-fetching and processing t
 
 ## &nbsp;Let's Connect
 
-If you're building something interesting — or hiring someone who will grow fast and deliver real work — let's talk.
+Open to internships, junior roles, and freelance automation projects.
 
 <br/>
 
