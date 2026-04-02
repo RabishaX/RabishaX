@@ -59,35 +59,6 @@ I'm a Full Stack PHP Developer with hands-on experience in AI-powered workflow a
 
 ---
 
-## &nbsp;Projects
-
-### 📚 &nbsp;E-Book Management System
-> Full-featured book management platform built in PHP
-
-Developed a dynamic e-book platform with complete user authentication, category-based organization, and full CRUD operations. Built with a clean, responsive interface designed for real-world usability.
-
-`PHP` `MySQL` `HTML5` `CSS3` `Bootstrap` `JavaScript`
-
----
-
-### 🤖 &nbsp;AI-Powered Customer Feedback Automation
-> Intelligent feedback triage — zero manual sorting
-
-Built a full automation system using Lovable (frontend) and n8n (backend) that classifies incoming customer feedback into Complaints, Compliments, and Feature Requests using AI — then triggers automatic Gmail replies based on category. Eliminated manual inbox management entirely.
-
-`n8n` `AI Workflows` `Gmail API` `Webhooks` `Lovable`
-
----
-
-### 💬 &nbsp;StarGenius AI Chatbot
-> Context-aware AI assistant with real-time conversation handling
-
-Developed an intelligent chatbot using Lovable + n8n, powered by a RAG-based AI agent that pulls from a knowledge base to deliver accurate, context-driven responses. Integrated webhooks, conditional logic, and API chaining for a seamless end-to-end flow.
-
-`n8n` `RAG Agent` `Webhooks` `REST APIs` `Lovable` `OpenAI`
-
----
-
 ## &nbsp;AI & Automation — How I Think
 
 - 🔗 &nbsp;**API integrations**: Gmail, webhooks, third-party REST APIs wired into automated pipelines
@@ -112,7 +83,6 @@ Developed an intelligent chatbot using Lovable + n8n, powered by a RAG-based AI 
 ```
 2026 Roadmap
 ├── Backend Growth     → Node.js · Express.js · MongoDB (MERN stack)
-├── PHP Deepening      → Laravel · REST API development · Advanced OOP
 ├── AI Automation      → Advanced n8n · LangChain · AI Agents · MCP Servers
 └── Career Target      → Junior Full Stack Developer · AI Automation role
 ```
