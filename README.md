@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- HERO -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Rabisha%20Nadeem&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Frontend%20Developer%20%E2%80%A2%20AI%20Automation%20Learner&descSize=16&descAlignY=78&descColor=a89de8" width="100%"/>
 
 <br/>
@@ -10,9 +8,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rabisha-nadeem)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rabisha@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rabisha-nadeem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rabisha-nadeem99)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rabisha2698@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RabishaX)
 
 </div>
 
@@ -58,60 +56,28 @@ I'm a frontend developer with a strong eye for UI and a growing obsession with b
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 ---
 
-## &nbsp;Featured Projects
+## &nbsp;AI & Automation Projects
 
-### 🛒 &nbsp;Dropshipping Order Automation System
-> End-to-end automation for Etsy-based dropshipping operations
+### 🤖 &nbsp;AI Chatbot — API-Powered Interaction System
+> Automating user interactions with intelligent response flows
 
-A 7-module automation platform handling order scraping, Amazon/eBay bot placements, tracking monitoring, and live VA operations. Reduced manual order processing time by over 80%.
+Built a functional chatbot using JavaScript and external AI APIs. Integrated real-time query handling with automated response logic — an entry point into understanding how LLM APIs work in production interfaces.
 
-`N8N` `Playwright` `Node.js` `React` `REST APIs` `MySQL`
-
----
-
-### 🤖 &nbsp;AI Sales Manager — WhatsApp Automation
-> Intelligent lead qualification + outreach pipeline
-
-A 27-node N8N workflow with OpenAI-powered message generation based on lead temperature, human-in-the-loop approval, WhatsApp delivery via Twilio, and automated follow-up scheduling.
-
-`N8N` `OpenAI API` `Twilio` `React Dashboard` `Webhook Flows`
+`JavaScript` `REST APIs` `AI Integration`
 
 ---
 
-### 📢 &nbsp;LinkedIn Content Automation Tool
-> From prompt to published post — fully automated
+### ⚙️ &nbsp;Task Automation Script — Workflow Efficiency Tool
+> Eliminating repetitive manual processes with code
 
-Dark-mode SaaS UI connected to an N8N backend for AI post generation, hashtag optimization, and direct LinkedIn publishing via API. Built with Lovable.dev frontend and webhook-based triggers.
+Developed a Node.js script that automates routine data-fetching and processing tasks. Reduced manual effort significantly by chaining API calls and handling data transformation automatically.
 
-`N8N` `OpenAI` `LinkedIn API` `Lovable.dev` `Webhooks`
-
----
-
-### 🎓 &nbsp;CampusConnect — University Event Platform
-> Centralizing student event discovery on campus
-
-A full React-based event management platform for universities, with event listings, responsive design, and a clean mobile-first interface. Focused on performance and accessibility.
-
-`React` `JavaScript` `CSS` `REST API`
-
----
-
-## &nbsp;AI & Automation
-
-I'm not just learning AI tools — I'm building with them.
-
-- 🔗 &nbsp;**API integrations**: OpenAI, Twilio, LinkedIn, tracking/shipping APIs
-- 🔄 &nbsp;**N8N workflows**: Multi-step automations with branching logic, webhooks, and human-in-the-loop nodes
-- 🧠 &nbsp;**LLM prompting**: Crafting structured prompts for lead scoring, content generation, and data extraction
-- 📦 &nbsp;**Agents & MCP**: Actively exploring LangChain, AI agents, and Model Context Protocol (MCP) servers
-- 🛠️ &nbsp;**Mindset**: Every repetitive process is an automation opportunity
-
-> *"Don't just use AI tools — understand them well enough to build with them."*
+`Node.js` `REST APIs` `Process Automation`
 
 ---
 
@@ -120,7 +86,7 @@ I'm not just learning AI tools — I'm building with them.
 - ✦ &nbsp;**Clean, maintainable code** — structure and readability over cleverness
 - ✦ &nbsp;**UI instinct** — I care about how things look *and* how they work
 - ✦ &nbsp;**Systems thinking** — I design the whole flow before writing the first line
-- ✦ &nbsp;**Real-world delivery** — client projects, live dashboards, production workflows
+- ✦ &nbsp;**API & automation mindset** — every repetitive process is a problem to solve with code
 - ✦ &nbsp;**Relentless learning** — I don't wait to be taught; I build to understand
 
 ---
@@ -129,10 +95,10 @@ I'm not just learning AI tools — I'm building with them.
 
 ```
 2026 Roadmap
-├── Full Stack Mastery      → Laravel + Node.js + advanced React patterns
-├── AI Automation Engineering → LangChain · LLM APIs · MCP Servers · Agents
+├── Full Stack Mastery        → Laravel · Node.js · Advanced React patterns
+├── AI Automation Engineering → LangChain · LLM APIs · N8N · AI Agents
 ├── Portfolio Products        → SaaS tools · client automation systems
-└── Open Source Contributions → starting small, building consistently
+└── Open Source               → starting small, building consistently
 ```
 
 ---
@@ -145,11 +111,11 @@ If you're building something interesting — or hiring someone who will grow fas
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rabisha-nadeem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rabisha-nadeem99)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rabisha@example.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rabisha2698@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rabisha-nadeem)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RabishaX)
 
 <br/>
 
