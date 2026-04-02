@@ -1,24 +1,123 @@
+# Rabisha Nadeem  
+Full Stack Developer (Aspiring) | AI Automation Enthusiast  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/r.a.b.i.s.h.a_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rabisha-nadeem99/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rabisha2698@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RabishaX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RabishaX&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RabishaX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RabishaX&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RabishaX&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I build responsive web applications and am actively expanding into AI-powered automation and smart systems. Focused on combining strong development fundamentals with intelligent workflows to deliver scalable, real-world solutions.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RabishaX&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Skills  
+
+**Frontend**  
+- HTML5, CSS3, Bootstrap  
+- JavaScript (ES6+)  
+- React.js  
+- jQuery  
+
+**Backend**  
+- PHP  
+- Laravel  
+- Node.js  
+- MySQL  
+
+**AI & Automation**  
+- AI-powered application basics  
+- API integrations (REST APIs)  
+- Automation workflows (task automation, data handling)  
+- Building smart tools and productivity systems  
+
+**Tools & Platforms**  
+- Git & GitHub  
+- VS Code  
+- Postman  
+- npm / package management  
+
+---
+
+## Featured Projects  
+
+### 1. Harvriel Electric Website  
+**Problem:** Small businesses need a strong online presence to showcase products effectively.  
+**Tech Stack:** HTML, CSS, Bootstrap, JavaScript  
+**Solution & Impact:**  
+- Developed a responsive business website with structured product sections  
+- Improved user experience with clean UI and accessible layout  
+- Built reusable components for scalability  
+
+---
+
+### 2. PHP CRUD Management System  
+**Problem:** Managing large datasets manually is inefficient and error-prone.  
+**Tech Stack:** PHP, MySQL, JavaScript  
+**Solution & Impact:**  
+- Built a full CRUD system with search and pagination  
+- Implemented Excel import/export for efficient data handling  
+- Delivered a practical solution for real-world data management  
+
+---
+
+### 3. JavaScript Interactive Practice Hub  
+**Problem:** Developers struggle to master core JavaScript concepts through theory alone.  
+**Tech Stack:** JavaScript (ES6+)  
+**Solution & Impact:**  
+- Created an interactive set of exercises using array methods (`map`, `filter`, `find`, `forEach`)  
+- Strengthened problem-solving and code optimization skills  
+- Focused on clean, maintainable logic  
+
+---
+
+## AI & Automation Projects  
+
+### 4. AI Chatbot (Beginner Project)  
+**Problem:** Users need instant responses and automated interaction systems.  
+**Tech Stack:** JavaScript, APIs  
+**Solution & Impact:**  
+- Built a basic chatbot using API integration  
+- Automated responses for user queries  
+- Gained hands-on experience in AI-powered interactions  
+
+---
+
+### 5. Task Automation Script  
+**Problem:** Repetitive tasks reduce productivity and efficiency.  
+**Tech Stack:** Node.js, APIs  
+**Solution & Impact:**  
+- Developed a script to automate routine tasks (data fetching, processing)  
+- Reduced manual effort and improved workflow efficiency  
+- Explored real-world automation use cases  
+
+---
+
+## What I Bring  
+
+- Strong foundation in frontend and growing backend expertise  
+- Ability to integrate APIs and build functional, scalable applications  
+- Interest in AI automation and smart system development  
+- Clean, maintainable, and structured coding practices  
+- Continuous learning mindset aligned with industry trends  
+
+---
+
+## Learning & Goals  
+
+- Mastering advanced JavaScript and asynchronous programming  
+- Strengthening backend development with Node.js and Laravel  
+- Building AI-powered applications and automation workflows  
+- Developing production-ready full stack projects  
+- Preparing for professional developer roles in 2026  
+
+---
+
+## Future Focus  
+
+- Combining Full Stack Development with AI Automation  
+- Building intelligent applications that solve real-world problems  
+- Creating scalable systems with smart decision-making capabilities  
+- Leveraging APIs and automation to enhance productivity tools  
+
+---
+
+## Contact  
+
+- LinkedIn: https://linkedin.com/in/rabisha-nadeem99 
+- GitHub: https://github.com/RabishaX  
+- Email: rabisha2698@gmail.com
