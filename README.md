@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Rabisha%20Nadeem&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Frontend%20Developer%20%E2%80%A2%20AI%20Automation%20Learner&descSize=16&descAlignY=78&descColor=a89de8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Rabisha%20Nadeem&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Automation%20Learner&descSize=16&descAlignY=78&descColor=a89de8" width="100%"/>
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ## &nbsp;About Me
 
-I'm a frontend developer with a strong eye for UI and a growing obsession with backend systems and AI automation. I build interfaces that are functional, clean, and fast — and I'm actively expanding into full-stack development and workflow automation.
+I'm a full stack developer with a strong eye for UI and a solid foundation in backend systems and AI automation. I build applications that are functional, clean, and scalable — and I'm actively expanding into AI-powered workflows and intelligent automation.
 
 - 🎯 &nbsp;Goal: Job-ready **Full Stack + AI Automation Developer** by end of 2026
 - ⚙️ &nbsp;Currently deepening: **Advanced JavaScript**, **Laravel**, **Node.js**, **N8N workflows**
